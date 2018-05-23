@@ -6,8 +6,7 @@
 > In HvA CMD onderzoeken we de (on)mogelijkheden van de conversational interfaceen ontwikkelen we een lesmethode voor conversational interface design. In dit experimenttesten we het coachen van leerprocessen met een prototype voor de basisschool.Leerlingen willen zelf in hun eigen tijd oefenen met een coach die ze helptmet de voortgang.Docenten in het BO en WO zoeken flexibele, en goedkope manierenom stof te kunnen overhoren.
 
 <h3>Debriefing</h3>
-<p>Bij het maken/werken aan deze repository is er gewerkt vanuit de volgende opdracht.
-<a href='../master/opdracht.md'>De opdracht</a></p>
+<p>Bij het maken/werken aan deze repository is er gewerkt vanuit <a href='../master/opdracht.md'>de opdracht van Y. Westplat</a></p>
 
 <h3>Tools:</h3>
 <ul>
