@@ -3,17 +3,3 @@
 
 
 
-| Intent        | Variabele           | :heavy_check_mark:/:heavy_multiplication_x: |
-| ------------- |:-------------:| --:|
-| col 3 is      | right-aligned | :heavy_check_mark: |
-| col 2 is      | centered      |  :heavy_multiplication_x: |
-| zebra stripes | are neat      |    :heavy_multiplication_x: |
-| col 3 is      | right-aligned | :heavy_check_mark: |
-| col 2 is      | centered      |  :heavy_multiplication_x: |
-| zebra stripes | are neat      |    :heavy_multiplication_x: |
-| col 3 is      | right-aligned | :heavy_check_mark: |
-| col 2 is      | centered      |  :heavy_multiplication_x: |
-| zebra stripes | are neat      |    :heavy_multiplication_x: |
-| col 3 is      | right-aligned | :heavy_check_mark: |
-| col 2 is      | centered      |  :heavy_multiplication_x: |
-| zebra stripes | are neat      |    :heavy_multiplication_x: |
