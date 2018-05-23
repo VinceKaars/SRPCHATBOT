@@ -7,7 +7,7 @@
 
 <h3>Debriefing</h3>
 <p>Bij het maken/werken aan deze repository is er gewerkt vanuit de volgende opdracht.</p>
-[Link naar opdracht](../blob/master/opdracht.md)
+<a href='../master/opdracht.md'>De opdracht</a>
 
 <h3>Tools:</h3>
 <ul>
